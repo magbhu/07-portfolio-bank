@@ -152,8 +152,8 @@ st.dataframe(styled_df, use_container_width=True)
 # --- Excel Export ---
 export_df = filtered_df[table_columns].rename(columns=column_map)
 buffer = BytesIO()
-with pd.ExcelWriter(buffer, engine="xlsxwriter") as writer:
-    export_df.to_excel(writer, index=False, sheet_name="Portfolio")
+#with pd.ExcelWriter(buffer, engine="xlsxwriter") as writer:
+ #   export_df.to_excel(writer, index=False, sheet_name="Portfolio")
    # writer.save()
 st.download_button(
     label=labels["export_excel"],
