@@ -1,0 +1,28 @@
+{
+  "portfolio_data": [
+    {
+      "member_code": "peter pan",
+      "member_code_ta": "பீட்டர் பேன்",
+      "portfolio": "Strategic Banking Portfolio",
+      "portfolio_ta": "திட்டமிட்ட வங்கி முதலீடு"
+    },
+    {
+      "member_code": "alice",
+      "member_code_ta": "ஆலிஸ்",
+      "portfolio": "Dividend Growth Portfolio",
+      "portfolio_ta": "வட்டியுடன் வளர்ச்சி போர்ட்ஃபோலியோ"
+    },
+    {
+      "member_code": "tom",
+      "member_code_ta": "டாம்",
+      "portfolio": "Balanced Financial Holdings",
+      "portfolio_ta": "சமநிலை நிதி முதலீடுகள்"
+    },
+    {
+      "member_code": "jerry",
+      "member_code_ta": "ஜெர்ரி",
+      "portfolio": "Emerging Market Banks",
+      "portfolio_ta": "உள்நாட்டு வளர்ச்சி வங்கிகள்"
+    }
+  ]
+}

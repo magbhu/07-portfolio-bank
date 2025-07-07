@@ -1,0 +1,7 @@
+streamlit>=1.30.0
+scikit-learn
+pandas>=2.0.0
+plotly>=5.19.0
+matplotlib
+fpdf>=1.7.2
+kaleido

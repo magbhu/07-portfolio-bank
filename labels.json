@@ -1,0 +1,48 @@
+{
+  "English": {
+    "title": "Bank Portfolio Dashboard",
+    "chart_title": "Bank Portfolio Dashboard", 
+	"chart_subtitle": "Bank Portfolio Dashboard",
+	"graph_title": "Market Value by Stock",
+    "table_title": "Bank Portfolio Table",
+    "beta_label": "Beta (1Y)",
+    "marketcap_label": "Investment (₹)",
+    "capseg_label": "Cap Segment",
+    "filter_by_sector": "Filter by Stock",
+    "fullname_label": "Full Name",
+    "export_excel": "Download as Excel",
+    "table_headers": {
+      "member_code": "Member Code",
+      "stock_name": "Stock Name",
+      "isin": "ISIN",
+      "qty": "Quantity",
+      "value_cost": "Investment",
+      "value_market": "Current Value",
+      "profit_pct": "Profit %",
+      "beta": "Beta (1Y)"
+    }
+  },
+  "Tamil": {
+    "title": "வங்கி போர்ட்ஃபோலியோ டாஷ்போர்டு",
+	"chart_title": "வங்கி போர்ட்ஃபோலியோ டாஷ்போர்டு",
+    "chart_subtitle": "வங்கி போர்ட்ஃபோலியோ டாஷ்போர்டு",
+    "graph_title": "பங்கு மதிப்பு வரைபடம்",
+    "table_title": "வங்கி போர்ட்ஃபோலியோ அட்டவணை",
+    "beta_label": "பீட்டா (1Y)",
+    "marketcap_label": "முதலீடு (₹)",
+    "capseg_label": "பங்கு வகை",
+    "filter_by_sector": "பங்குகள் மூலம் வடிகட்டு",
+    "fullname_label": "முழுப் பெயர்",
+    "export_excel": "எக்செல் பதிவிறக்கு",
+    "table_headers": {
+      "member_code": "உறுப்பினர் குறியீடு",
+      "stock_name": "பங்கு பெயர்",
+      "isin": "ஐ.எஸ்.ஐ.என்",
+      "qty": "அளவு",
+      "value_cost": "முதலீடு",
+      "value_market": "தற்போதைய மதிப்பு",
+      "profit_pct": "இனிப்பு %",
+      "beta": "பீட்டா (1Y)"
+    }
+  }
+}

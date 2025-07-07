@@ -1,0 +1,514 @@
+{
+  "banks_data": [
+    {
+      "country": "USA",
+      "full_name_en": "JPMorgan Chase & Co.",
+      "full_name_ta": "ஜேபி மார்கன் சேஸ் & கோ.",
+      "short_name": "JPM",
+      "isin": "US46625H1005",
+      "sector": "Financials",
+      "cap_segment": "Large",
+      "indices": ["S&P 500", "BKX"]
+    },
+    {
+      "country": "USA",
+      "full_name_en": "Bank of America Corporation",
+      "full_name_ta": "பேங்க் ஆஃப் அமெரிக்கா கார்ப்பரேஷன்",
+      "short_name": "BAC",
+      "isin": "US0605051046",
+      "sector": "Financials",
+      "cap_segment": "Large",
+      "indices": ["S&P 500", "BKX"]
+    },
+    {
+      "country": "USA",
+      "full_name_en": "Wells Fargo & Company",
+      "full_name_ta": "வெல்ஸ் பார்கோ & கம்பெனி",
+      "short_name": "WFC",
+      "isin": "US9497461015",
+      "sector": "Financials",
+      "cap_segment": "Large",
+      "indices": ["S&P 500", "BKX"]
+    },
+    {
+      "country": "USA",
+      "full_name_en": "Citigroup Inc.",
+      "full_name_ta": "சிட்டிகுரூப் இன்க்.",
+      "short_name": "C",
+      "isin": "US1729674242",
+      "sector": "Financials",
+      "cap_segment": "Large",
+      "indices": ["S&P 500", "BKX"]
+    },
+    {
+      "country": "USA",
+      "full_name_en": "The Goldman Sachs Group, Inc.",
+      "full_name_ta": "கோல்ட்மேன் சாக்ஸ் குழுமம், இன்க்.",
+      "short_name": "GS",
+      "isin": "US38141G1040",
+      "sector": "Financials",
+      "cap_segment": "Large",
+      "indices": ["S&P 500", "BKX"]
+    },
+    {
+      "country": "USA",
+      "full_name_en": "Morgan Stanley",
+      "full_name_ta": "மோர்கன் ஸ்டான்லி",
+      "short_name": "MS",
+      "isin": "US6174464486",
+      "sector": "Financials",
+      "cap_segment": "Large",
+      "indices": ["S&P 500", "BKX"]
+    },
+    {
+      "country": "USA",
+      "full_name_en": "U.S. Bancorp",
+      "full_name_ta": "யு.எஸ். பாங்கார்ப்",
+      "short_name": "USB",
+      "isin": "US9029733048",
+      "sector": "Financials",
+      "cap_segment": "Large",
+      "indices": ["S&P 500", "BKX"]
+    },
+    {
+      "country": "USA",
+      "full_name_en": "The PNC Financial Services Group, Inc.",
+      "full_name_ta": "பி.என்.சி நிதி சேவைகள் குழுமம், இன்க்.",
+      "short_name": "PNC",
+      "isin": "US6934751057",
+      "sector": "Financials",
+      "cap_segment": "Large",
+      "indices": ["S&P 500", "BKX"]
+    },
+    {
+      "country": "USA",
+      "full_name_en": "Capital One Financial Corporation",
+      "full_name_ta": "கேபிடல் ஒன் நிதி கார்ப்பரேஷன்",
+      "short_name": "COF",
+      "isin": "US14040H1059",
+      "sector": "Financials",
+      "cap_segment": "Large",
+      "indices": ["S&P 500"]
+    },
+    {
+      "country": "USA",
+      "full_name_en": "Truist Financial Corporation",
+      "full_name_ta": "ட்ரூயிஸ்ட் நிதி கார்ப்பரேஷன்",
+      "short_name": "TFC",
+      "isin": "US89788Y1091",
+      "sector": "Financials",
+      "cap_segment": "Large",
+      "indices": ["S&P 500"]
+    },
+    {
+      "country": "USA",
+      "full_name_en": "M&T Bank Corporation",
+      "full_name_ta": "எம்&டி பேங்க் கார்ப்பரேஷன்",
+      "short_name": "MTB",
+      "isin": "US55261F1012",
+      "sector": "Financials",
+      "cap_segment": "Mid",
+      "indices": ["S&P 500"]
+    },
+    {
+      "country": "USA",
+      "full_name_en": "Fifth Third Bancorp",
+      "full_name_ta": "பிஃப்த் தர்ட் பாங்கார்ப்",
+      "short_name": "FITB",
+      "isin": "US3167731005",
+      "sector": "Financials",
+      "cap_segment": "Mid",
+      "indices": ["S&P 500"]
+    },
+    {
+      "country": "USA",
+      "full_name_en": "Regions Financial Corporation",
+      "full_name_ta": "ரீஜியன்ஸ் நிதி கார்ப்பரேஷன்",
+      "short_name": "RF",
+      "isin": "US7591EP1005",
+      "sector": "Financials",
+      "cap_segment": "Mid",
+      "indices": ["S&P 500"]
+    },
+    {
+      "country": "USA",
+      "full_name_en": "KeyCorp",
+      "full_name_ta": "கீ கார்ப்",
+      "short_name": "KEY",
+      "isin": "US4932671088",
+      "sector": "Financials",
+      "cap_segment": "Mid",
+      "indices": ["S&P 500"]
+    },
+    {
+      "country": "USA",
+      "full_name_en": "East West Bancorp, Inc.",
+      "full_name_ta": "ஈஸ்ட் வெஸ்ட் பாங்கார்ப், இன்க்.",
+      "short_name": "EWBC",
+      "isin": "US27579R1040",
+      "sector": "Financials",
+      "cap_segment": "Mid",
+      "indices": ["S&P MidCap 400"]
+    },
+    {
+      "country": "USA",
+      "full_name_en": "Webster Financial Corporation",
+      "full_name_ta": "வெப்ஸ்டர் நிதி கார்ப்பரேஷன்",
+      "short_name": "WBS",
+      "isin": "US9478901090",
+      "sector": "Financials",
+      "cap_segment": "Mid",
+      "indices": ["S&P MidCap 400"]
+    },
+    {
+      "country": "USA",
+      "full_name_en": "First Horizon Corporation",
+      "full_name_ta": "ஃபர்ஸ்ட் ஹொரைசன் கார்ப்பரேஷன்",
+      "short_name": "FHN",
+      "isin": "US3205171057",
+      "sector": "Financials",
+      "cap_segment": "Mid",
+      "indices": ["S&P MidCap 400"]
+    },
+    {
+      "country": "USA",
+      "full_name_en": "Synovus Financial Corp.",
+      "full_name_ta": "சினாபஸ் நிதி கார்ப்பரேஷன்",
+      "short_name": "SNV",
+      "isin": "US8716161046",
+      "sector": "Financials",
+      "cap_segment": "Mid",
+      "indices": ["S&P MidCap 400"]
+    },
+    {
+      "country": "USA",
+      "full_name_en": "Comerica Incorporated",
+      "full_name_ta": "கோமெரிக்கா இன்கார்பரேட்டட்",
+      "short_name": "CMA",
+      "isin": "US2003401070",
+      "sector": "Financials",
+      "cap_segment": "Mid",
+      "indices": ["S&P MidCap 400"]
+    },
+    {
+      "country": "USA",
+      "full_name_en": "Zions Bancorporation, National Association",
+      "full_name_ta": "ஜியன்ஸ் பாங்கார்ப், நேஷனல் அசோசியேஷன்",
+      "short_name": "ZION",
+      "isin": "US9897011085",
+      "sector": "Financials",
+      "cap_segment": "Mid",
+      "indices": ["S&P MidCap 400"]
+    },
+    {
+      "country": "USA",
+      "full_name_en": "Cullen/Frost Bankers, Inc.",
+      "full_name_ta": "கல்லன்/ஃப்ரோஸ்ட் பேங்கர்ஸ், இன்க்.",
+      "short_name": "CFR",
+      "isin": "US2298991090",
+      "sector": "Financials",
+      "cap_segment": "Small",
+      "indices": ["S&P SmallCap 600"]
+    },
+    {
+      "country": "USA",
+      "full_name_en": "Pinnacle Financial Partners, Inc.",
+      "full_name_ta": "பினக்கிள் நிதி பார்ட்னர்ஸ், இன்க்.",
+      "short_name": "PNFP",
+      "isin": "US72346Q1040",
+      "sector": "Financials",
+      "cap_segment": "Small",
+      "indices": ["S&P SmallCap 600"]
+    },
+    {
+      "country": "USA",
+      "full_name_en": "Old National Bancorp",
+      "full_name_ta": "ஓல்ட் நேஷனல் பாங்கார்ப்",
+      "short_name": "ONB",
+      "isin": "US6803451000",
+      "sector": "Financials",
+      "cap_segment": "Small",
+      "indices": ["S&P SmallCap 600"]
+    },
+    {
+      "country": "USA",
+      "full_name_en": "Associated Banc-Corp",
+      "full_name_ta": "அசோசியேட்டட் பாங்கார்ப்",
+      "short_name": "ASB",
+      "isin": "US0454541031",
+      "sector": "Financials",
+      "cap_segment": "Small",
+      "indices": ["S&P SmallCap 600"]
+    },
+    {
+      "country": "USA",
+      "full_name_en": "Prosperity Bancshares, Inc.",
+      "full_name_ta": "ப்ராஸ்பெரிட்டி பாங்க்ஷேர்ஸ், இன்க்.",
+      "short_name": "PB",
+      "isin": "US7436061052",
+      "sector": "Financials",
+      "cap_segment": "Small",
+      "indices": ["S&P SmallCap 600"]
+    },
+    {
+      "country": "USA",
+      "full_name_en": "BankUnited, Inc.",
+      "full_name_ta": "பேங்க் யுனைடெட், இன்க்.",
+      "short_name": "BKU",
+      "isin": "US06652K1034",
+      "sector": "Financials",
+      "cap_segment": "Small",
+      "indices": ["S&P SmallCap 600"]
+    },
+    {
+      "country": "USA",
+      "full_name_en": "Hancock Whitney Corporation",
+      "full_name_ta": "ஹான்காக் விட்னி கார்ப்பரேஷன்",
+      "short_name": "HWC",
+      "isin": "US4101201099",
+      "sector": "Financials",
+      "cap_segment": "Small",
+      "indices": ["S&P SmallCap 600"]
+    },
+    {
+      "country": "USA",
+      "full_name_en": "SouthState Corporation",
+      "full_name_ta": "சவுத்ஸ்டேட் கார்ப்பரேஷன்",
+      "short_name": "SSB",
+      "isin": "US8404411096",
+      "sector": "Financials",
+      "cap_segment": "Small",
+      "indices": ["S&P SmallCap 600"]
+    },
+    {
+      "country": "USA",
+      "full_name_en": "Wintrust Financial Corporation",
+      "full_name_ta": "வின்ட்ரஸ்ட் நிதி கார்ப்பரேஷன்",
+      "short_name": "WTFC",
+      "isin": "US9758261045",
+      "sector": "Financials",
+      "cap_segment": "Small",
+      "indices": ["S&P SmallCap 600"]
+    },
+    {
+      "country": "USA",
+      "full_name_en": "First Citizens BancShares, Inc.",
+      "full_name_ta": "ஃபர்ஸ்ட் சிட்டிசன்ஸ் பாங்க்ஷேர்ஸ், இன்க்.",
+      "short_name": "FCNCA",
+      "isin": "US31872Q1067",
+      "sector": "Financials",
+      "cap_segment": "Small",
+      "indices": ["S&P 500"]
+    },
+    {
+      "country": "India",
+      "full_name_en": "Housing Development Finance Corporation Bank Limited",
+      "full_name_ta": "ஹவுசிங் டெவலப்மெண்ட் ஃபைனான்ஸ் கார்ப்பரேஷன் வங்கி லிமிட்டெட்",
+      "short_name": "HDFCBANK",
+      "isin": "INE040A01034",
+      "sector": "Private",
+      "cap_segment": "Large",
+      "indices": ["NIFTY 50", "Bank Nifty"]
+    },
+    {
+      "country": "India",
+      "full_name_en": "Industrial Credit and Investment Corporation of India Bank Limited",
+      "full_name_ta": "இந்திய தொழிற் கடன் மற்றும் முதலீட்டுக் கார்ப்பரேஷன் வங்கி லிமிட்டெட்",
+      "short_name": "ICICIBANK",
+      "isin": "INE090A01021",
+      "sector": "Private",
+      "cap_segment": "Large",
+      "indices": ["NIFTY 50", "Bank Nifty"]
+    },
+    {
+      "country": "India",
+      "full_name_en": "State Bank of India",
+      "full_name_ta": "இந்திய மாநில வங்கி",
+      "short_name": "SBIN",
+      "isin": "INE062A01020",
+      "sector": "Public",
+      "cap_segment": "Large",
+      "indices": ["NIFTY 50", "Bank Nifty"]
+    },
+    {
+      "country": "India",
+      "full_name_en": "Axis Bank Limited",
+      "full_name_ta": "ஆக்சிஸ் வங்கி லிமிடெட்",
+      "short_name": "AXISBANK",
+      "isin": "INE238A01034",
+      "sector": "Private",
+      "cap_segment": "Large",
+      "indices": ["NIFTY 50", "Bank Nifty"]
+    },
+    {
+      "country": "India",
+      "full_name_en": "Kotak Mahindra Bank Limited",
+      "full_name_ta": "கோடக் மஹிந்திரா வங்கி லிமிடெட்",
+      "short_name": "KOTAKBANK",
+      "isin": "INE237A01028",
+      "sector": "Private",
+      "cap_segment": "Large",
+      "indices": ["NIFTY 50", "Bank Nifty"]
+    },
+    {
+      "country": "India",
+      "full_name_en": "IndusInd Bank Limited",
+      "full_name_ta": "இந்துஇந்த் வங்கி லிமிடெட்",
+      "short_name": "INDUSINDBK",
+      "isin": "INE095A01012",
+      "sector": "Private",
+      "cap_segment": "Large",
+      "indices": ["Bank Nifty"]
+    },
+    {
+      "country": "India",
+      "full_name_en": "Bank of Baroda",
+      "full_name_ta": "பேங்க் ஆப் பாரோடா",
+      "short_name": "BANKBARODA",
+      "isin": "INE028A01039",
+      "sector": "Public",
+      "cap_segment": "Mid",
+      "indices": ["Bank Nifty"]
+    },
+    {
+      "country": "India",
+      "full_name_en": "Punjab National Bank",
+      "full_name_ta": "பஞ்சாப் நேஷனல் வங்கி",
+      "short_name": "PNB",
+      "isin": "INE160A01022",
+      "sector": "Public",
+      "cap_segment": "Mid",
+      "indices": ["Bank Nifty"]
+    },
+    {
+      "country": "India",
+      "full_name_en": "Canara Bank",
+      "full_name_ta": "கனரா வங்கி",
+      "short_name": "CANARABANK",
+      "isin": "INE476A01014",
+      "sector": "Public",
+      "cap_segment": "Mid",
+      "indices": []
+    },
+    {
+      "country": "India",
+      "full_name_en": "Union Bank of India",
+      "full_name_ta": "யூனியன் பேங்க் ஆப் இந்தியா",
+      "short_name": "UNIONBANK",
+      "isin": "INE692A01016",
+      "sector": "Public",
+      "cap_segment": "Mid",
+      "indices": []
+    },
+    {
+      "country": "India",
+      "full_name_en": "Indian Overseas Bank",
+      "full_name_ta": "இந்தியன் ஓவர்சீஸ் வங்கி",
+      "short_name": "IOB",
+      "isin": "INE565A01014",
+      "sector": "Public",
+      "cap_segment": "Mid",
+      "indices": []
+    },
+    {
+      "country": "India",
+      "full_name_en": "Indian Bank",
+      "full_name_ta": "இந்தியன் வங்கி",
+      "short_name": "INDIANB",
+      "isin": "INE562A01011",
+      "sector": "Public",
+      "cap_segment": "Mid",
+      "indices": []
+    },
+    {
+      "country": "India",
+      "full_name_en": "Bank of India",
+      "full_name_ta": "பேங்க் ஆஃப் இந்தியா / இந்தியன் வங்கி",
+      "short_name": "BANKINDIA",
+      "isin": "INE084A01016",
+      "sector": "Public",
+      "cap_segment": "Mid",
+      "indices": ["NIFTY 500", "Nifty Midcap 150"]
+    },
+    {
+      "country": "India",
+      "full_name_en": "IDFC First Bank Limited",
+      "full_name_ta": "ஐடிஎஃப்சி ஃபர்ஸ்ட் வங்கி லிமிடெட்",
+      "short_name": "IDFCFIRSTB",
+      "isin": "INE092O01016",
+      "sector": "Private",
+      "cap_segment": "Small",
+      "indices": []
+    },
+    {
+      "country": "India",
+      "full_name_en": "AU Small Finance Bank Limited",
+      "full_name_ta": "ஏ.யூ சிறிய நிதி வங்கி லிமிடெட்",
+      "short_name": "AUBANK",
+      "isin": "INE949L01017",
+      "sector": "Private",
+      "cap_segment": "Small",
+      "indices": ["Bank Nifty"]
+    },
+    {
+      "country": "India",
+      "full_name_en": "Yes Bank Limited",
+      "full_name_ta": "யெஸ் வங்கி",
+      "short_name": "YESBANK",
+      "isin": "INE528G08360",
+      "sector": "Private",
+      "cap_segment": "Small",
+      "indices": []
+    },
+    {
+      "country": "India",
+      "full_name_en": "Federal Bank Limited",
+      "full_name_ta": "ஃபெடரல் வங்கி லிமிடெட்",
+      "short_name": "FEDERALBNK",
+      "isin": "INE171A01029",
+      "sector": "Private",
+      "cap_segment": "Small",
+      "indices": []
+    },
+    {
+      "country": "India",
+      "full_name_en": "Bandhan Bank Limited",
+      "full_name_ta": "பந்தன் வங்கி லிமிட்டெட்",
+      "short_name": "BANDHANBNK",
+      "isin": "INE545U01014",
+      "sector": "Private",
+      "cap_segment": "Small",
+      "indices": []
+    },
+    {
+      "country": "India",
+      "full_name_en": "Karur Vysya Bank Ltd.",
+      "full_name_ta": "கரூர் வைஸ்யா வங்கி",
+      "short_name": "KARURVYSYA",
+      "isin": "INE036D01028",
+      "sector": "Private",
+      "cap_segment": "Small",
+      "indices": []
+    },
+    {
+      "country": "India",
+      "full_name_en": "Jammu & Kashmir Bank Limited",
+      "full_name_ta": "ஜம்மு காஷ்மீர் வங்கி லிமிடெட்",
+      "short_name": "J&KBANK",
+      "isin": "INE160A01022",
+      "sector": "Public",
+      "cap_segment": "Small",
+      "indices": []
+    },
+    {
+      "country": "India",
+      "full_name_en": "RBL Bank Limited",
+      "full_name_ta": "ஆர்.பி.எல் வங்கி லிமிடெட்",
+      "short_name": "RBLBANK",
+      "isin": "INE976G01028",
+      "sector": "Private",
+      "cap_segment": "Small",
+      "indices": []
+    }
+  ]
+}

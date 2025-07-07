@@ -1,0 +1,419 @@
+ {
+  "financial_metrics": [
+    {
+      "country": "USA",
+      "short_name": "JPM",
+      "isin": "US46625H1005",
+      "market_cap_bn_usd": 580,
+      "beta_5yr": 1.1,
+      "beta_1yr": 1.1
+    },
+    {
+      "country": "USA",
+      "short_name": "BAC",
+      "isin": "US0605051046",
+      "market_cap_bn_usd": 280,
+      "beta_5yr": 1.3,
+      "beta_1yr": 1.3
+    },
+    {
+      "country": "USA",
+      "short_name": "WFC",
+      "isin": "US9497461015",
+      "market_cap_bn_usd": 265.2,
+      "beta_5yr": 1.2,
+      "beta_1yr": 1.2
+    },
+    {
+      "country": "USA",
+      "short_name": "C",
+      "isin": "US1729674242",
+      "market_cap_bn_usd": 161.1,
+      "beta_5yr": 1.4,
+      "beta_1yr": 1.4
+    },
+    {
+      "country": "USA",
+      "short_name": "GS",
+      "isin": "US38141G1040",
+      "market_cap_bn_usd": 125.8,
+      "beta_5yr": 1.5,
+      "beta_1yr": 1.5
+    },
+    {
+      "country": "USA",
+      "short_name": "MS",
+      "isin": "US6174464486",
+      "market_cap_bn_usd": 153.05,
+      "beta_5yr": 1.3,
+      "beta_1yr": 1.3
+    },
+    {
+      "country": "USA",
+      "short_name": "USB",
+      "isin": "US9029733048",
+      "market_cap_bn_usd": 72.4,
+      "beta_5yr": 1.1,
+      "beta_1yr": 1.1
+    },
+    {
+      "country": "USA",
+      "short_name": "PNC",
+      "isin": "US6934751057",
+      "market_cap_bn_usd": 76.2,
+      "beta_5yr": 1.2,
+      "beta_1yr": 1.2
+    },
+    {
+      "country": "USA",
+      "short_name": "COF",
+      "isin": "US14040H1059",
+      "market_cap_bn_usd": 49.94,
+      "beta_5yr": 1.5,
+      "beta_1yr": 1.5
+    },
+    {
+      "country": "USA",
+      "short_name": "TFC",
+      "isin": "US89788Y1091",
+      "market_cap_bn_usd": 57.9,
+      "beta_5yr": 1.3,
+      "beta_1yr": 1.3
+    },
+    {
+      "country": "USA",
+      "short_name": "MTB",
+      "isin": "US55261F1012",
+      "market_cap_bn_usd": 31.7,
+      "beta_5yr": 1.0,
+      "beta_1yr": 1.0
+    },
+    {
+      "country": "USA",
+      "short_name": "FITB",
+      "isin": "US3167731005",
+      "market_cap_bn_usd": 28.3,
+      "beta_5yr": 1.2,
+      "beta_1yr": 1.2
+    },
+    {
+      "country": "USA",
+      "short_name": "RF",
+      "isin": "US7591EP1005",
+      "market_cap_bn_usd": 21.7,
+      "beta_5yr": 1.3,
+      "beta_1yr": 1.3
+    },
+    {
+      "country": "USA",
+      "short_name": "KEY",
+      "isin": "US4932671088",
+      "market_cap_bn_usd": 19.6,
+      "beta_5yr": 1.4,
+      "beta_1yr": 1.4
+    },
+    {
+      "country": "USA",
+      "short_name": "EWBC",
+      "isin": "US27579R1040",
+      "market_cap_bn_usd": 14.4,
+      "beta_5yr": 1.1,
+      "beta_1yr": 1.1
+    },
+    {
+      "country": "USA",
+      "short_name": "WBS",
+      "isin": "US9478901090",
+      "market_cap_bn_usd": 9.6,
+      "beta_5yr": 1.0,
+      "beta_1yr": 1.0
+    },
+    {
+      "country": "USA",
+      "short_name": "FHN",
+      "isin": "US3205171057",
+      "market_cap_bn_usd": 10.9,
+      "beta_5yr": 1.3,
+      "beta_1yr": 1.3
+    },
+    {
+      "country": "USA",
+      "short_name": "SNV",
+      "isin": "US8716161046",
+      "market_cap_bn_usd": 5.5,
+      "beta_5yr": 1.2,
+      "beta_1yr": 1.2
+    },
+    {
+      "country": "USA",
+      "short_name": "CMA",
+      "isin": "US2003401070",
+      "market_cap_bn_usd": 7.36,
+      "beta_5yr": 1.1,
+      "beta_1yr": 1.1
+    },
+    {
+      "country": "USA",
+      "short_name": "ZION",
+      "isin": "US9897011085",
+      "market_cap_bn_usd": 8.8,
+      "beta_5yr": 1.2,
+      "beta_1yr": 1.2
+    },
+    {
+      "country": "USA",
+      "short_name": "CFR",
+      "isin": "US2298991090",
+      "market_cap_bn_usd": 8.5,
+      "beta_5yr": 1.1,
+      "beta_1yr": 1.1
+    },
+    {
+      "country": "USA",
+      "short_name": "PNFP",
+      "isin": "US72346Q1040",
+      "market_cap_bn_usd": 6.7,
+      "beta_5yr": 1.0,
+      "beta_1yr": 1.0
+    },
+    {
+      "country": "USA",
+      "short_name": "ONB",
+      "isin": "US6803451000",
+      "market_cap_bn_usd": 4.94,
+      "beta_5yr": 1.0,
+      "beta_1yr": 1.0
+    },
+    {
+      "country": "USA",
+      "short_name": "ASB",
+      "isin": "US0454541031",
+      "market_cap_bn_usd": 3.23,
+      "beta_5yr": 1.1,
+      "beta_1yr": 1.1
+    },
+    {
+      "country": "USA",
+      "short_name": "PB",
+      "isin": "US7436061052",
+      "market_cap_bn_usd": 6.35,
+      "beta_5yr": 0.9,
+      "beta_1yr": 0.9
+    },
+    {
+      "country": "USA",
+      "short_name": "BKU",
+      "isin": "US06652K1034",
+      "market_cap_bn_usd": 2.41,
+      "beta_5_yr": 1.0
+    },
+    {
+      "country": "USA",
+      "short_name": "HWC",
+      "isin": "US4101201099",
+      "market_cap_bn_usd": 4.19,
+      "beta_5yr": 1.1,
+      "beta_1yr": 1.1
+    },
+    {
+      "country": "USA",
+      "short_name": "SSB",
+      "isin": "US8404411096",
+      "market_cap_bn_usd": 6.42,
+      "beta_5yr": 1.0,
+      "beta_1yr": 1.0
+    },
+    {
+      "country": "USA",
+      "short_name": "WTFC",
+      "isin": "US9758261045",
+      "market_cap_bn_usd": 8.5,
+      "beta_5yr": 1.1,
+      "beta_1yr": 1.1
+    },
+    {
+      "country": "USA",
+      "short_name": "FCNCA",
+      "isin": "US31872Q1067",
+      "market_cap_bn_usd": 26.9,
+      "beta_5yr": 1.0,
+      "beta_1yr": 1.0
+    },
+    {
+      "country": "India",
+      "short_name": "HDFCBANK",
+      "isin": "INE040A01034",
+      "market_cap_cr": 1667700,
+      "beta_5yr": 0.57,
+      "beta_1yr": 0.57
+    },
+    {
+      "country": "India",
+      "short_name": "ICICIBANK",
+      "isin": "INE090A01021",
+      "market_cap_cr": 1035000,
+      "beta_5yr": 0.54,
+      "beta_1yr": 0.54
+    },
+    {
+      "country": "India",
+      "short_name": "SBIN",
+      "isin": "INE062A01020",
+      "market_cap_cr": 707000,
+      "beta_5yr": 0.52,
+      "beta_1yr": 0.52
+    },
+    {
+      "country": "India",
+      "short_name": "AXISBANK",
+      "isin": "INE238A01034",
+      "market_cap_cr": 380000,
+      "beta_5yr": 0.51,
+      "beta_1yr": 0.51
+    },
+    {
+      "country": "India",
+      "short_name": "KOTAKBANK",
+      "isin": "INE237A01028",
+      "market_cap_cr": 350000,
+      "beta_5yr": 0.49,
+      "beta_1yr": 0.49
+    },
+    {
+      "country": "India",
+      "short_name": "INDUSINDBK",
+      "isin": "INE095A01012",
+      "market_cap_cr": 115000,
+      "beta_5yr": 0.55,
+      "beta_1yr": 0.55
+    },
+    {
+      "country": "India",
+      "short_name": "BANKBARODA",
+      "isin": "INE028A01039",
+      "market_cap_cr": 122000,
+      "beta_5yr": 0.88,
+      "beta_1yr": 0.88
+    },
+	{
+      "country": "India",
+      "short_name": "BANMAH",
+      "isin": "INE457A01014",
+      "market_cap_cr": 442000,
+      "beta_5yr": 0.45,
+      "beta_1yr": 0.45
+    },
+    {
+      "country": "India",
+      "short_name": "PNB",
+      "isin": "INE160A01022",
+      "market_cap_cr": 113000,
+      "beta_5yr": 0.49,
+      "beta_1yr": 0.49
+    },
+    {
+      "country": "India",
+      "short_name": "CANARABANK",
+      "isin": "INE476A01014",
+      "market_cap_cr": 105000,
+      "beta_5yr": 0.48,
+      "beta_1yr": 0.48
+    },
+    {
+      "country": "India",
+      "short_name": "UNIONBANK",
+      "isin": "INE692A01016",
+      "market_cap_cr": 100000,
+      "beta_5yr": 0.47,
+      "beta_1yr": 0.47
+    },
+    {
+      "country": "India",
+      "short_name": "IOB",
+      "isin": "INE565A01014",
+      "market_cap_cr": 95000,
+      "beta_5yr": 0.46,
+      "beta_1yr": 0.46
+    },
+    {
+      "country": "India",
+      "short_name": "INDIANB",
+      "isin": "INE562A01011",
+      "market_cap_cr": 87000,
+      "beta_5yr": 1.29,
+      "beta_1yr": 1.29
+    },
+    {
+      "country": "India",
+      "short_name": "BANKINDIA",
+      "isin": "INE084A01016",
+      "market_cap_cr": 54000,
+      "beta_5yr": 1.54,
+      "beta_1yr": 1.54
+    },
+    {
+      "country": "India",
+      "short_name": "IDFCFIRSTB",
+      "isin": "INE092O01016",
+      "market_cap_cr": 60000,
+      "beta_5yr": 0.58,
+      "beta_1yr": 0.58
+    },
+    {
+      "country": "India",
+      "short_name": "AUBANK",
+      "isin": "INE949L01017",
+      "market_cap_cr": 60000,
+      "beta_5yr": 0.48,
+      "beta_1yr": 0.48
+    },
+    {
+      "country": "India",
+      "short_name": "YESBANK",
+      "isin": "INE528G01035",
+      "market_cap_cr": 63800,
+      "beta_5yr": 3.65,
+      "beta_1yr": 3.65
+    },
+    {
+      "country": "India",
+      "short_name": "FEDERALBNK",
+      "isin": "INE171A01029",
+      "market_cap_cr": 35000,
+      "beta_5yr": 0.43,
+      "beta_1yr": 0.43
+    },
+    {
+      "country": "India",
+      "short_name": "BANDHANBNK",
+      "isin": "INE545U01014",
+      "market_cap_cr": 32000,
+      "beta_5yr": 0.45,
+      "beta_1yr": 0.45
+    },
+    {
+      "country": "India",
+      "short_name": "KARURVYSYA",
+      "isin": "INE036D01028",
+      "market_cap_cr": 21500,
+      "beta_5yr": 1.24,
+      "beta_1yr": 1.24
+    },
+    {
+      "country": "India",
+      "short_name": "J&KBANK",
+      "isin": "INE160A01022",
+      "market_cap_cr": 19000,
+      "beta_5yr": 0.41,
+      "beta_1yr": 0.41
+    },
+    {
+      "country": "India",
+      "short_name": "RBLBANK",
+      "isin": "INE976G01028",
+      "market_cap_cr": 18000,
+      "beta_5yr": 0.42, 
+      "beta_1yr": 0.42
+    }
+  ]
+}
